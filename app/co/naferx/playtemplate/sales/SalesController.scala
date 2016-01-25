@@ -5,4 +5,5 @@ import play.api.mvc.Controller
 
 class SalesController extends Controller {
 
+
 }
