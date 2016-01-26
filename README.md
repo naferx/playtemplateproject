@@ -1,2 +1,2 @@
-#Play Framework Template Project for Scala
+##Play Framework Template Project for Scala
 
