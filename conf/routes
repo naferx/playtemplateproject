@@ -1,5 +1,5 @@
 
-GET     /                           @co.naferx.playtemplate.sales.SalesController
+GET     /                           @co.naferx.playtemplate.sales.SalesController.hi
 
 
     
