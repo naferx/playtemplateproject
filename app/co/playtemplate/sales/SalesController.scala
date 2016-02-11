@@ -1,4 +1,4 @@
-package co.naferx.playtemplate.sales
+package co.playtemplate.sales
 
 import play.api.mvc.{ Action, Controller }
 

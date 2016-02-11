@@ -1,4 +1,4 @@
-package co.naferx.playtemplate.sales
+package co.playtemplate.sales
 
 import org.scalatest.{ FlatSpec, Matchers }
 
