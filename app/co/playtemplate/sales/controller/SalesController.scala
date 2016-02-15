@@ -1,6 +1,6 @@
-package co.playtemplate.sales
+package co.playtemplate.sales.controller
 
-import play.api.mvc.{ Action, Controller }
+import play.api.mvc.{Action, Controller}
 
 import scala.concurrent.Future
 
